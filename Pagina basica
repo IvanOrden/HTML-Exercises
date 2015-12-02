@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Página 1</title>
+	<meta charset="utf-8"/>
+</head>
+<body>
+    <h1>Mi Página</h1>
+    <h2>Introducción (header) </h2>
+    <p>
+    	Esto es un párrafo
+    </p>
+</body>
+</html>
